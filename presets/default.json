@@ -41,7 +41,7 @@
         "Fooocus Enhance",
         "Fooocus Sharp"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "896x1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "epicrealismXL_vxviLastfameRealism.safetensors": "https://huggingface.co/poor7/Models/resolve/main/epicrealismXL_vxviLastfameRealism.safetensors"
