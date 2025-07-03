@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "epicrealismXL_vxviLastfameRealism.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,9 +41,9 @@
         "Fooocus Enhance",
         "Fooocus Sharp"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "epicrealismXL_vxviLastfameRealism.safetensors": "https://huggingface.co/poor7/Models/resolve/main/epicrealismXL_vxviLastfameRealism.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
