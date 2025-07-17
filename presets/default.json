@@ -1,5 +1,5 @@
 {
-    "default_model": "epicrealismXL_vxviLastfameRealism.safetensors",
+    "default_model": "bigLust_v16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -44,7 +44,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "epicrealismXL_vxviLastfameRealism.safetensors": "https://huggingface.co/poor7/Models/resolve/main/epicrealismXL_vxviLastfameRealism.safetensors"
+        "bigLust_v16.safetensors": "https://huggingface.co/poor7/Models/resolve/main/bigLust_v16.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
